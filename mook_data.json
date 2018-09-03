@@ -1,0 +1,32 @@
+{
+  "0":{
+
+    "id":"1",
+    "name":"demco",
+    "image":"http://www.demco.fr/media/wysiwyg/DemcoFR/EFR-2018.png",
+    "file":"",
+    "subtitle":"sous titre demco"
+
+  },
+
+  "1" : {
+
+    "id" : "2",
+    "name" : "aldi",
+    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWWIg3xy1tnVny4h_UVIhQHNm-f-MaEMyzF6sITz4BogWXr-XV",
+    "file":"",
+    "subtitle":"sous titre aldi"
+
+  },
+
+  "2" : {
+
+    "id" : "2",
+    "name" : "makro",
+    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwU_eZ-MLBXZ5_CgSTWW_28YOuec2Wjp3wQ8XNjKNG1Z6-14J7",
+    "file":"",
+    "subtitle":"sous titre makro"
+
+  }
+
+}
