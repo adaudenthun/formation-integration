@@ -1,3 +1,5 @@
+<?php include_once './page/html/header.html'; ?>
+
 <?php
 
 require_once './class/catalogue.php';
@@ -33,3 +35,5 @@ $catalogueCollection = $bloc->getCollection();
     <!-- HTML ici ! :) -->
 
 </div>
+
+<?php include_once './page/html/footer.html'; ?>
